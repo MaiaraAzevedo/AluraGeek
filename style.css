@@ -198,7 +198,7 @@ h1 {
 /*Rodapé*/
 .rodape-container {
     width: 100%;
-    padding: 35px;
+    padding: 25px;
     padding: 45px;
     height: 140px;
     background-image: url("imagens/fundo-geek.jpg");
@@ -210,8 +210,7 @@ h1 {
 
 .rodape-container div {
     font-family: "Press Start 2P", system-ui;
-    font-size: 22px;
-    font-size: 24px;
+    font-size: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -220,8 +219,7 @@ h1 {
 .rodape-container p {
     font-family: "IBM Plex Mono", monospace;
     font-weight: 500;
-    font-size: 20px;
-    font-size: 26px;
+    font-size: 17px;
 }
 
 .rodape-container span {
