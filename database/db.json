@@ -1,0 +1,59 @@
+
+{
+    "Product": [
+        {
+          "nome": "Caneca Programador(a)",
+          "valor": "49,99",
+          "imagem": "https://http2.mlstatic.com/D_NQ_NP_950182-MLU70851792249_082023-O.webp",
+          "id": "1"
+        },
+        {
+          "nome": "Código Limpo",
+          "valor": "69,99",
+          "imagem": "https://m.media-amazon.com/images/I/71dH97FwGbL._AC_UL480_FMwebp_QL65_.jpg",
+          "id": "2"
+        },
+        {
+          "nome": "Lúminaria Capacete Stormtrooper",
+          "valor": "119,99",
+          "imagem": "https://m.media-amazon.com/images/I/51um8d7NFBL._AC_UL480_QL65_.jpg",
+          "id": "3"
+        },
+        {
+          "nome": "Baby Yoda",
+          "valor": "99,99",
+          "imagem": "https://m.media-amazon.com/images/I/71X2u76uX3L._AC_UL480_QL65_.jpg",
+          "id": "4"
+        },
+        {
+          "nome": "Sabre de Luz",
+          "valor": "534,99",
+          "imagem": "https://images.tcdn.com.br/img/img_prod/460977/sabre_de_luz_luke_skywalker_rgb_16_cores_star_wars_com_caixa_de_controle_evali_90903_3_6912796f2f6954fff4e81bee7daee433.png",
+          "id": "5"
+        },
+        {
+          "nome": "PlayStation®5 + God of War Ragnarok",
+          "valor": "3789,99",
+          "imagem": "https://images.tcdn.com.br/img/img_prod/993382/console_playstation_5_god_of_war_ragnarok_769_2_9b2d8b295236eea2e4dbee76952a4c3d.jpg",
+          "id": "6"
+        },
+        {
+          "nome": "Headset",
+          "valor": "239,99",
+          "imagem": "https://m.media-amazon.com/images/I/71LP40TtRHL.jpg",
+          "id": "7"
+        },
+        {
+          "nome": "Cubo Mágico",
+          "valor": "29,99",
+          "imagem": "https://m.media-amazon.com/images/I/61w7RltRUYL._AC_UL480_FMwebp_QL65_.jpg",
+          "id": "8"
+        },
+        {
+          "nome": "Estação de Carregamento Ps5",
+          "valor": "69,99",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi14yLm_u2lsq_E03bpJGpklk9OJ9CaC4E4A&s",
+          "id": "9"
+        }
+      ]
+    }
