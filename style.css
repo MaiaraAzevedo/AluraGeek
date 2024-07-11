@@ -31,7 +31,7 @@ html, body {
 
 .cabecalho p {
     font-family: "Press Start 2P", system-ui;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 400;
     color: #652eb6;
 }
@@ -198,7 +198,7 @@ h1 {
 /*Rodapé*/
 .rodape-container {
     width: 100%;
-    padding: 25px;
+    padding: 35px;
     height: 140px;
     background-image: url("imagens/fundo-geek.jpg");
     background-repeat: no-repeat;
@@ -209,7 +209,7 @@ h1 {
 
 .rodape-container div {
     font-family: "Press Start 2P", system-ui;
-    font-size: 14px;
+    font-size: 22px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -218,7 +218,7 @@ h1 {
 .rodape-container p {
     font-family: "IBM Plex Mono", monospace;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .rodape-container span {
